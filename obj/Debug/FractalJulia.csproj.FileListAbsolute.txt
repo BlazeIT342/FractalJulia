@@ -1,0 +1,20 @@
+C:\Users\milera\Documents\Visual Studio 2012\Projects\2 КУРС 1 семестр\FractalJulia\FractalJulia\bin\Debug\FractalJulia.exe.config
+C:\Users\milera\Documents\Visual Studio 2012\Projects\2 КУРС 1 семестр\FractalJulia\FractalJulia\bin\Debug\FractalJulia.exe
+C:\Users\milera\Documents\Visual Studio 2012\Projects\2 КУРС 1 семестр\FractalJulia\FractalJulia\bin\Debug\FractalJulia.pdb
+C:\Users\milera\Documents\Visual Studio 2012\Projects\2 КУРС 1 семестр\FractalJulia\FractalJulia\obj\Debug\FractalJulia.Form1.resources
+C:\Users\milera\Documents\Visual Studio 2012\Projects\2 КУРС 1 семестр\FractalJulia\FractalJulia\obj\Debug\FractalJulia.Properties.Resources.resources
+C:\Users\milera\Documents\Visual Studio 2012\Projects\2 КУРС 1 семестр\FractalJulia\FractalJulia\obj\Debug\FractalJulia.csproj.GenerateResource.Cache
+C:\Users\milera\Documents\Visual Studio 2012\Projects\2 КУРС 1 семестр\FractalJulia\FractalJulia\obj\Debug\FractalJulia.exe
+C:\Users\milera\Documents\Visual Studio 2012\Projects\2 КУРС 1 семестр\FractalJulia\FractalJulia\obj\Debug\FractalJulia.pdb
+C:\Users\milera\Documents\Visual Studio 2012\Projects\2 КУРС 1 семестр\FractalJulia\FractalJulia\obj\Debug\FractalJulia.csprojResolveAssemblyReference.cache
+C:\Users\yltra\OneDrive\Рабочий стол\FractalJulia\FractalJulia\bin\Debug\FractalJulia.exe.config
+C:\Users\yltra\OneDrive\Рабочий стол\FractalJulia\FractalJulia\bin\Debug\FractalJulia.exe
+C:\Users\yltra\OneDrive\Рабочий стол\FractalJulia\FractalJulia\bin\Debug\FractalJulia.pdb
+C:\Users\yltra\OneDrive\Рабочий стол\FractalJulia\FractalJulia\obj\Debug\FractalJulia.csproj.AssemblyReference.cache
+C:\Users\yltra\OneDrive\Рабочий стол\FractalJulia\FractalJulia\obj\Debug\FractalJulia.csproj.SuggestedBindingRedirects.cache
+C:\Users\yltra\OneDrive\Рабочий стол\FractalJulia\FractalJulia\obj\Debug\FractalJulia.Form1.resources
+C:\Users\yltra\OneDrive\Рабочий стол\FractalJulia\FractalJulia\obj\Debug\FractalJulia.Properties.Resources.resources
+C:\Users\yltra\OneDrive\Рабочий стол\FractalJulia\FractalJulia\obj\Debug\FractalJulia.csproj.GenerateResource.cache
+C:\Users\yltra\OneDrive\Рабочий стол\FractalJulia\FractalJulia\obj\Debug\FractalJulia.csproj.CoreCompileInputs.cache
+C:\Users\yltra\OneDrive\Рабочий стол\FractalJulia\FractalJulia\obj\Debug\FractalJulia.exe
+C:\Users\yltra\OneDrive\Рабочий стол\FractalJulia\FractalJulia\obj\Debug\FractalJulia.pdb
